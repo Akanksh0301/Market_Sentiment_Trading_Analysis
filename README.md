@@ -7,7 +7,7 @@ This project analyzes how Bitcoin market sentiment affects trader performance.
 - Python
 - Pandas
 - Matplotlib
-- 
+
 ## Dataset
 
 The datasets used in this project:
